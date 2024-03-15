@@ -17,6 +17,8 @@ I am a Passionate Front-end Developer and Educator with a knack for creating eng
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+
 
 
 ## 💬 Ask me about
