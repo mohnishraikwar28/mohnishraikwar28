@@ -1,7 +1,7 @@
 # Hello, I'm Mohnish Raikwar! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
-[![Linkedin: mohnishraikwar28](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohnishraikwar28/)](https://www.linkedin.com/in/mohnishraikwar28/)
+[![Linkedin: mohnishraikwar28](https://img.shields.io/badge/-mohnishraikwar28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohnishraikwar28/)](https://www.linkedin.com/in/mohnishraikwar28/)
 
 I am a Passionate Front-end Developer and Educator with a knack for creating engaging user experiences. Experienced in HTML, CSS, JavaScript, and popular frameworks like React. Committed to sharing knowledge through clear, practical examples and fostering a collaborative learning environment. Constantly learning and staying updated with the latest trends in front-end development. Let's build something amazing together!"
 
