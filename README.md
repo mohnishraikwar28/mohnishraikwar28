@@ -30,6 +30,6 @@ I am a Passionate Front-end Developer and Educator with a knack for creating eng
 
 - Email: mohnishraikwar28@gmail.com
 - Facebook Page: [https://www.facebook.com/mrcodeboy](https://www.facebook.com/mrcodeboy/)
-- Instgram Page: [https://www.instgram.com/mrcodeboy](https://www.instagram.com/mrcodeboy/)
+- Instagram Page: [https://www.instagram.com/mrcodeboy](https://www.instagram.com/mrcodeboy/)
 
 
